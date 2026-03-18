@@ -1,1 +1,0 @@
-print('this is just to test the git account setup on the remote server')
